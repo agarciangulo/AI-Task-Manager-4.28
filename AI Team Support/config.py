@@ -5,11 +5,11 @@ import os
 
 # API Keys - Use environment variables for better security
 OPENAI_API_KEY = "" #need to change the key
-NOTION_TOKEN = "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"
+NOTION_TOKEN = ""
 
 # Database IDs
-NOTION_DATABASE_ID = "1a35c6ec3b80801fb280d632be392e46"
-NOTION_FEEDBACK_DB_ID = "1cc5c6ec3b8080ab934feb388e729447"
+NOTION_DATABASE_ID = ""
+NOTION_FEEDBACK_DB_ID = ""
 
 # Configuration settings
 SIMILARITY_THRESHOLD = 0.85  # Threshold for task similarity
